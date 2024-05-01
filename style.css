@@ -1,0 +1,26 @@
+.col {
+    display: flex;
+    flex-direction: column;
+    margin: 3%;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    margin: 3%;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    width: 100px;
+    color: black;
+}
+
+.text {
+    display: flex;
+    width: 300px;
+    justify-content: center;
+}
